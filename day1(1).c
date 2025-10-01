@@ -22,7 +22,8 @@ int main(){
     scanf("%f",&b);     //inputing the second number and storuing it in the varible "b"
 
     float sum;          // defining the variable sum
-    sum=a+b;            // adding the two nnumbers and storing it in the variable "sum"
+    sum=a+b;            // adding the two numbers and storing it in the variable "sum"
 
     printf("The sum of the two numbers is %f",sum);   //displaying the output
+
 }
